@@ -97,6 +97,18 @@ let chartExample1 = {
         "OCT",
         "NOV",
         "DEC",
+        "JAN",
+        "FEB",
+        "MAR",
+        "APR",
+        "MAY",
+        "JUN",
+        "JUL",
+        "AUG",
+        "SEP",
+        "OCT",
+        "NOV",
+        "DEC",
       ],
       datasets: [
         {
@@ -114,7 +126,7 @@ let chartExample1 = {
           pointHoverRadius: 4,
           pointHoverBorderWidth: 15,
           pointRadius: 4,
-          data: [100, 70, 90, 70, 85, 60, 75, 60, 90, 80, 110, 100],
+          data: [100, 70, 60, 70, 85, 90, 75, 60, 90, 115, 110, 100, 70, 60, 70, 85, 90, 75, 60, 90, 115, 110, 100,110],
         },
       ],
     };
